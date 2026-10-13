@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Tanim Mia 👋
 
-<!--
-**heydevtanim/heydevtanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Building TanimXploit
 
-Here are some ideas to get you started:
+I'm a web developer focused on building websites and improving my skills through practical development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning web technologies, solving coding problems, documenting projects, and sharing useful technical knowledge.
+
+## 🛠️ Technologies
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Databases**
+- SQL and database technologies
+
+**Tools & Platforms**
+- Git
+- GitHub
+- WordPress
+
+## 🎯 Current Focus
+
+- Building practical web development projects
+- Improving frontend and backend development skills
+- Exploring business website and e-commerce development
+- Writing clear project documentation
+- Growing TanimXploit through practical learning and knowledge sharing
+
+## 🌐 Areas of Interest
+
+- Full-Stack Web Development
+- Business Websites
+- E-commerce Websites
+- Open-Source Learning
+- Technical Education
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, sharing knowledge, discussing web technologies, and exploring suitable collaboration opportunities.
+
+**TanimXploit — Learn, Build, Share.**
