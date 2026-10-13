@@ -1,4 +1,4 @@
-# Hi, I'm Tanim Mia 👋
+# Hi, I'm Tanim Mia
 
 ### Full-Stack Web Developer | Building TanimXploit
 
