@@ -52,8 +52,8 @@ I'm building and improving practical web development projects. Check my reposito
 
 ##  Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- **Fiverr:** [Add your Fiverr profile URL](https://www.fiverr.com/)
+- **LinkedIn:** (https://www.linkedin.com/in/heydevtanim/)
+- **Fiverr:** (https://www.fiverr.com/heydevtanim)
 - **Portfolio:** Coming soon
 
 ---
