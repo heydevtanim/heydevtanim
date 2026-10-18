@@ -1,18 +1,18 @@
-# Hi, I'm Tanim Mia 👋
+# Hi, I'm Tanim Mia 
 
 ### WordPress & WooCommerce Developer | E-commerce Web Solutions
 
 I build, customize, and improve websites using WordPress and WooCommerce, helping businesses establish and grow their online presence.
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Focused on WordPress and WooCommerce development
-- 🛒 Interested in e-commerce websites and online store solutions
-- 🛠️ Working on website customization, functionality, and troubleshooting
-- 🌱 Continuously improving my web development skills
-- 🤝 Open to freelance projects and collaboration
+-  Focused on WordPress and WooCommerce development
+-  Interested in e-commerce websites and online store solutions
+-  Working on website customization, functionality, and troubleshooting
+-  Continuously improving my web development skills
+-  Open to freelance projects and collaboration
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Web Development**
 - HTML
@@ -35,7 +35,7 @@ I build, customize, and improve websites using WordPress and WooCommerce, helpin
 - Git
 - GitHub
 
-## 💼 Core Services
+##  Core Services
 
 - WordPress Website Development
 - WooCommerce Store Development
@@ -44,13 +44,13 @@ I build, customize, and improve websites using WordPress and WooCommerce, helpin
 - Website Bug Fixing & Maintenance
 - Business Websites & Landing Pages
 
-## 📌 Featured Projects
+##  Featured Projects
 
 I'm building and improving practical web development projects. Check my repositories to explore my work.
 
 > Project descriptions and live demos will be added as projects are documented and published.
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
 - **Fiverr:** [Add your Fiverr profile URL](https://www.fiverr.com/)
